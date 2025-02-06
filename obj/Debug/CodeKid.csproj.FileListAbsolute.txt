@@ -1,0 +1,126 @@
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\CodeKid.exe.config
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\CodeKid.exe
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\CodeKid.pdb
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\en\CodeKid.resources.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.csproj.AssemblyReference.cache
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.Properties.Resources.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.csproj.GenerateResource.cache
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.csproj.CoreCompileInputs.cache
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\en\CodeKid.resources.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.exe
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.pdb
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.info.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\bin\Debug\CodeKid.exe.config
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\bin\Debug\CodeKid.exe
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\bin\Debug\CodeKid.pdb
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\bin\Debug\en\CodeKid.resources.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\CodeKid.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\CodeKid.info.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\CodeKid.Properties.Resources.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\CodeKid.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\CodeKid.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\en\CodeKid.resources.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\CodeKid.exe
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CodeKid\CodeKid\obj\Debug\CodeKid.pdb
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.learn.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.home.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.home.en.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.learn2.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_1cs.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_2.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_3.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_4.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_5.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_6.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.log.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.login.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\CodeKid.mdf
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\CodeKid_log.ldf
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.admin.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.judge.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.manager.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.scoretable.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.practice.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level3.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Modules.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.SQLite.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Wpf.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Buffers.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Memory.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Modules.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.SQLite.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Wpf.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Buffers.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Memory.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_1.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_2.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_3.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_4.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_5.resources
+C:\Users\yusuffff\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.csproj.Up2Date
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\CodeKid.mdf
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\CodeKid_log.ldf
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Modules.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.SQLite.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Wpf.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Buffers.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Memory.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Modules.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.SQLite.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\IronPython.Wpf.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Buffers.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Memory.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.admin.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.home.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.judge.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.learn.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.learn2.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_1cs.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_2.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_3.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_4.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_5.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level1_6.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_1.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_2.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_3.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_4.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level2_5.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.level3.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.log.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.login.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.manager.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.practice.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.scoretable.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.home.en.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\codeKid\CodeKid\obj\Debug\CodeKid.csproj.Up2Date

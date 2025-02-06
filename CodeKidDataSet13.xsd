@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CodeKidDataSet13" targetNamespace="http://tempuri.org/CodeKidDataSet13.xsd" xmlns:mstns="http://tempuri.org/CodeKidDataSet13.xsd" xmlns="http://tempuri.org/CodeKidDataSet13.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CodeKidConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CodeKidConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CodeKid.Properties.Settings.GlobalReference.Default.CodeKidConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="playerTableAdapter" GeneratorDataComponentClassName="playerTableAdapter" Name="player" UserDataComponentName="playerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CodeKidConnectionString (Settings)" DbObjectName="dbo.player" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT score FROM dbo.player</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="score" DataSetColumn="score" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="rankTableAdapter" GeneratorDataComponentClassName="rankTableAdapter" Name="rank" UserDataComponentName="rankTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CodeKidConnectionString (Settings)" DbObjectName="dbo.rank" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT player_id, rank FROM dbo.rank</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="player_id" DataSetColumn="player_id" />
+              <Mapping SourceColumn="rank" DataSetColumn="rank" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CodeKidDataSet13" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="CodeKidDataSet13" msprop:Generator_DataSetName="CodeKidDataSet13">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="player" msprop:Generator_RowEvHandlerName="playerRowChangeEventHandler" msprop:Generator_RowDeletedName="playerRowDeleted" msprop:Generator_RowDeletingName="playerRowDeleting" msprop:Generator_RowEvArgName="playerRowChangeEvent" msprop:Generator_TablePropName="player" msprop:Generator_RowChangedName="playerRowChanged" msprop:Generator_RowChangingName="playerRowChanging" msprop:Generator_TableClassName="playerDataTable" msprop:Generator_RowClassName="playerRow" msprop:Generator_TableVarName="tableplayer" msprop:Generator_UserTableName="player">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="score" msprop:Generator_ColumnPropNameInRow="score" msprop:Generator_ColumnPropNameInTable="scoreColumn" msprop:Generator_ColumnVarNameInTable="columnscore" msprop:Generator_UserColumnName="score" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="rank" msprop:Generator_RowEvHandlerName="rankRowChangeEventHandler" msprop:Generator_RowDeletedName="rankRowDeleted" msprop:Generator_RowDeletingName="rankRowDeleting" msprop:Generator_RowEvArgName="rankRowChangeEvent" msprop:Generator_TablePropName="rank" msprop:Generator_RowChangedName="rankRowChanged" msprop:Generator_RowChangingName="rankRowChanging" msprop:Generator_TableClassName="rankDataTable" msprop:Generator_RowClassName="rankRow" msprop:Generator_TableVarName="tablerank" msprop:Generator_UserTableName="rank">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="player_id" msprop:Generator_ColumnPropNameInRow="player_id" msprop:Generator_ColumnPropNameInTable="player_idColumn" msprop:Generator_ColumnVarNameInTable="columnplayer_id" msprop:Generator_UserColumnName="player_id" type="xs:int" />
+              <xs:element name="rank" msprop:Generator_ColumnPropNameInRow="rank" msprop:Generator_ColumnPropNameInTable="rankColumn" msprop:Generator_ColumnVarNameInTable="columnrank" msprop:Generator_UserColumnName="rank" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
